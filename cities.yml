@@ -1,0 +1,21 @@
+countries:
+  - country: "Швейцария"
+    cities:
+      - city: "Цюрих"
+        timezone: "Europe/Zurich"
+        sunrise: "08:05"
+        sunset: "17:34"
+
+  - country: "Япония"
+    cities:
+      - city: "Токио"
+        timezone: "Asia/Tokyo"
+        sunrise: "06:40"
+        sunset: "17:10"
+
+  - country: "США"
+    cities:
+      - city: "Нью-Йорк"
+        timezone: "America/New_York"
+        sunrise: "07:10"
+        sunset: "17:20"
